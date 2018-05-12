@@ -1,0 +1,28 @@
+_repo: Le-calendrier-de-V-nus_17551
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Uzanne, Octave
+    alias: Uzanne, Louis Octave
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '1042'
+    url: http://www.gutenberg.org/2009/agents/1042
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17551'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Vignettes'
+title: Le calendrier de Vénus
+url: http://www.gutenberg.org/ebooks/17551
